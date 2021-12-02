@@ -1,0 +1,2 @@
+# abc
+treniņa mape
